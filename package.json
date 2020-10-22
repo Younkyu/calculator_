@@ -1,0 +1,8 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "author": "qlee",
+  "license": "MIT"
+}
