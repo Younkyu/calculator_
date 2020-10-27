@@ -1,1 +1,0 @@
-(()=>{const e=document.createElement("div");document.body.appendChild(e),setInterval((()=>e.innerText=function(){const e=new Date;return`${e.getHours()}:${e.getMinutes()}:${e.getSeconds()}`}()),1e3)})();
